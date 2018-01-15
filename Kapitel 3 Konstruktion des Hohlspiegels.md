@@ -1,4 +1,6 @@
 3.1 Mathemathischen Uberlegen des Hohlspiegeles
+
+
 3.1.1 Spiegelform 
 
 

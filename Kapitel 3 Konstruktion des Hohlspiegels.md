@@ -63,6 +63,8 @@ Bei dem Offset gespeiste Spiegel verhindert der Signalemfänger (in der Antennen
 
 
 ![Satellitenschüssel](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Offset.jpg) 
+Reflektor einer Offsetantenne als Ausschnitt aus einem gedachten Parabolreflektor (Date01.03.2006 Author Averse)
+
 3.1.5 Bestimmung von Parameter des Spiegels
 
 In den letzten Abschnitten kommt nur die qualitätive Denkung der Spiegelform in Frage. In folgend Text ist die Quantität des Spiegeles auseinandergesetzt. Die Bestimmung der Hauptabmessung des Spiegels wird durch ein Beispiel von einen gewöhnlichen paraboloiden Hohlspiegel erklärt, da er in der Praxis beliebte Form ist. 

@@ -51,7 +51,7 @@ Zum beispiel, ein Parabolspiegel mit Durchmesser von 300 mm, der auf eine rotier
 
 Der Beeinfluss einer zusätzlichen Störquelle ist nicht mit Quellenarten zu tun. Entwieder bei der Punktquelle oder Bei der Ebenen- und 3D-schallquelle spielt nur der Entfernung zwischen der Schallquellen eine Rolle. Je nährer die beiden Quellen miteinander liegen, desto stärker der Störwirkung ist. In der mathematischen Modulierung werden die refleksierte Schallwellen von der Störquelle nicht auf der Brennpunkt des Spiegeles bzw. die Position der Mikrofon fokusiert. Eigentlich werden sie gar nicht fokusiert, sondern nach verschiedene Richtungen abgelenkt. In der Realität kann die Störwirkung  mit verschiedene Empfindlichkeit des Mikrofones abhängig sein. In der folgenden Kapitel werden ein paar relevanten Testen durchgefühltund ihre Ergibnisse ausgewertet.  (Siehe Kapitel 6) 
 
-![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
+![Störwirkung](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Störwirkung.png)  
 
 
 

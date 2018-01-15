@@ -63,6 +63,8 @@ Bei dem Offset gespeiste Spiegel verhindert der Signalemfänger (in der Antennen
 
 
 ![Satellitenschüssel](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Offset.jpg) 
+
+
 Reflektor einer Offsetantenne als Ausschnitt aus einem gedachten Parabolreflektor (Date01.03.2006 Author Averse)
 
 3.1.5 Bestimmung von Parameter des Spiegels
